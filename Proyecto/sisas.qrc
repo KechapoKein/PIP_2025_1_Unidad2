@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="sisas">
+    <file>fiuat-2024.png</file>
+    <file>cangrejocai.jpg</file>
+    <file>goob.jpg</file>
+    <file>Siglas-UAT.png</file>
+    <file>Snake.jpg</file>
+    <file>supergucci.jpg</file>
+  </qresource>
+</RCC>
